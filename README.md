@@ -1,5 +1,6 @@
 # 득근의 숲 (Muscle Forest)
 
+![그림1](https://github.com/user-attachments/assets/fb5eefe8-9268-4f01-a378-a0f1820bf680)
 ### **"고민은 AI가, 당신은 딸깍."**
 > 2030 세대를 위한 게이미피케이션 기반 AI 헬스케어 웹 서비스
 
@@ -68,6 +69,7 @@ npm run dev
 ### 👥 팀 소개
 프로젝트: 동양미래대학교 정보통신공학과 IT 캡스톤 디자인 2 [J7]
 
+![그림2](https://github.com/user-attachments/assets/db16e7c0-c633-4a15-8fdf-e7ac33c81fc3)
 팀명 : 딸깍 (Ddalkak)
 
 팀원 : 박승헌, 김준우, 정민호
